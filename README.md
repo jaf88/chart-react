@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Chat application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Backend provider with -- chatengine.io
 
-## Available Scripts
+Frontend with React
 
-In the project directory, you can run:
+Deploy with Netlify
 
 ### `yarn start`
 
